@@ -1,8 +1,8 @@
 # django api
 learning api with django
 full stack
-+ vue/node.js
++ react
 + bootstrap
 + django
 + python
-+ MySQL
++ PostgreSQL
